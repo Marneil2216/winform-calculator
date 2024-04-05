@@ -1,0 +1,10 @@
+C:\Users\morosca\source\repos\Calculator 3\Calculator 3\bin\Debug\Calculator 3.exe.config
+C:\Users\morosca\source\repos\Calculator 3\Calculator 3\bin\Debug\Calculator 3.exe
+C:\Users\morosca\source\repos\Calculator 3\Calculator 3\bin\Debug\Calculator 3.pdb
+C:\Users\morosca\source\repos\Calculator 3\Calculator 3\obj\Debug\Calculator 3.csproj.AssemblyReference.cache
+C:\Users\morosca\source\repos\Calculator 3\Calculator 3\obj\Debug\Calculator_3.Form1.resources
+C:\Users\morosca\source\repos\Calculator 3\Calculator 3\obj\Debug\Calculator_3.Properties.Resources.resources
+C:\Users\morosca\source\repos\Calculator 3\Calculator 3\obj\Debug\Calculator 3.csproj.GenerateResource.cache
+C:\Users\morosca\source\repos\Calculator 3\Calculator 3\obj\Debug\Calculator 3.csproj.CoreCompileInputs.cache
+C:\Users\morosca\source\repos\Calculator 3\Calculator 3\obj\Debug\Calculator 3.exe
+C:\Users\morosca\source\repos\Calculator 3\Calculator 3\obj\Debug\Calculator 3.pdb
